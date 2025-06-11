@@ -25,7 +25,7 @@
 - University or open-source competitions
 
 ### 📫 Reach me at:
-- ✉️ **marioemad77@gmail.com**  
+- ✉️ **emadmario760@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-username)  
 - 🌐 [GitHub Portfolio](https://github.com/Marioemad1)
 
