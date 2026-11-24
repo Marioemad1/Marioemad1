@@ -1,40 +1,48 @@
-# 👋 Hey there, I'm Mario Emad!
+# 👋 Hey, I'm Mario Emad Boles
 
-🎓 I'm a Mechatronics Engineering student at **Benha National University** (Class of 2027)  
-🤖 Passionate about **robotics**, **automation**, and **embedded systems**  
-🚀 Exploring the world of **ROS 2**, **IoT**, and **AI-powered mechatronics**
+🎓 Mechatronics Engineer, B.Sc. from **Benha National University** (Graduated June 2026, GPA 3.43/4.0)
+🤖 I build **autonomous mobile robots**, **embedded systems** and **industrial automation**
+🚀 Working with **ROS 2**, **Nav2**, **SLAM**, **C/C++** and **Python**
 
 ---
 
-### 👀 I’m interested in:
-- Autonomous robots & mobile navigation
+### 🛠️ What I've built
+- **LogicBot**: an A+ graded autonomous warehouse robot. I led the programming team. ROS 2, Nav2, SLAM Toolbox, AMCL, ros2_control, a custom LiDAR-only docking controller and an ESP32 mission interface.
+- **FetchBot**: a mobile manipulator in Gazebo Sim, bridging Nav2, MoveIt 2 and ros2_control.
+- **Dual-ECU Vehicle Fault Detection & Logging System**: ATmega32, a custom mini-RTOS, UART and I2C between ECUs, and EEPROM fault storage.
+- **Agricultural robot**: ROS 2 with OpenCV, Raspberry Pi cameras and a 4-DOF arm.
+
+### 👀 I'm interested in
+- Autonomous robots, SLAM and mobile navigation
+- Mobile manipulation and motion planning (MoveIt 2)
 - Control systems and real-time embedded development
-- Open-source hardware/software (Arduino, Raspberry Pi, etc.)
+- PLC programming and industrial automation (Siemens S7-1200)
+- Power electronics, electronics and PCB design
+- Automotive electronics and vehicle diagnostics
 - Machine vision and smart farming tech
+- Open-source hardware and software (Arduino, ESP32, Raspberry Pi)
 
-### 🌱 Currently learning:
-- ROS 2 Humble & Nav2 for autonomous navigation  
-- YOLOv8 for real-time object detection  
-- C/C++ and Python for embedded systems  
-- CAD & mechanical design for mechatronics projects
+### 🌱 Currently learning
+- Deeper ROS 2 work: micro-ROS, multi-robot systems, cloud telemetry
+- YOLOv8 and machine learning for real-time object detection
+- CAD and mechanical design (SolidWorks) for my own robot builds
+- Docker for reproducible robotics setups
 
-### 💞️ I’m open to collaborating on:
-- Robotics and automation projects  
-- ROS 2 packages and simulation tools  
-- Smart agriculture and sustainable tech  
-- University or open-source competitions
+### 💞 I'm open to
+- Robotics and automation projects
+- ROS 2 packages and simulation tools
+- Smart agriculture and sustainable tech
+- Open-source work and competitions
+- Entry-level roles in robotics, embedded systems, mechatronics and automation
 
-### 📫 Reach me at:
-- ✉️ **emadmario760@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username)  
+### 🧰 Tech
+`ROS 2` `Nav2` `SLAM` `MoveIt 2` `ros2_control` `Gazebo` `C` `C++` `Python` `ESP32` `ATmega32` `Raspberry Pi` `Linux` `Git` `OpenCV` `PLC` `PCB` `Docker`
+
+### 📫 Reach me
+- ✉️ **mario.emad.boles@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/marioboles/)
 - 🌐 [GitHub Portfolio](https://github.com/Marioemad1)
 
 ---
 
-> _"Engineering is not only about machines, coding, or circuits—it's about solving real-world problems with creativity and innovation."_
-
-<!---
-Marioemad1/Marioemad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+> _"Engineering is not only about machines, coding, or circuits. It's about solving real-world problems with creativity and innovation."_
